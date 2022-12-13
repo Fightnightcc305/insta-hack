@@ -49,7 +49,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `sudo bash insta-hack.sh`
-
+hayyyjacobs
 ## Screenshot:
 <br>
 <p align="center">

@@ -1,4 +1,4 @@
-clear
+hayyyjacobs
 echo -e "$Yellow                            processing please wait..>"
 sleep 2.0
 clear
